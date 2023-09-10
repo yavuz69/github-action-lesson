@@ -20,4 +20,4 @@ jobs:
       uses: actions/checkout@v2
 
     - name: step two
-      run: "Get-children Env: | Sort-Object Name"
+      run: "Get-Children Env: | Sort-Object Name"
